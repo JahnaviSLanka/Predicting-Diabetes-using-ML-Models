@@ -1,0 +1,2 @@
+# Predicting-Diabetes-using-ML-Models
+In USA, one person in seven suffers from Diabetes and it will keep increasing according  to the Center of Disease Control and Prevention. To address the issue of increasing rate of  patient suffering from Diabetes, Machine Learning was used in this project to predict the  Diabetic Condition of a person. This study implements Deep Learning - the advance  approach of machine learning to overcome the drawbacks of the traditional machine  learning classification models. 
